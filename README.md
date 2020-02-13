@@ -1,3 +1,6 @@
-### Beauty saloon
-## Julia Zhuravka
+## Beauty saloon 
+##       for
+# Julia Zhuravka
+
+## Developer theme for WordPress
  
